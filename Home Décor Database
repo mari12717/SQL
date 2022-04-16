@@ -1,0 +1,19 @@
+CREATE TABLE home_decor (id integer primary key, name text, quantity integer, price integer);
+INSERT INTO 
+home_decor VALUES
+(1, "wreaths", 10, 12),
+(2, "shelves", 5, 20),
+(3, "towels", 12, 5),
+(4, "tables", 10, 40),
+(5, "frames", 5, 4),
+(6, "plates", 2, 5),
+(7, "baskets", 12, 10),
+(8, "lamps", 2, 20),
+(9, "bowls", 6, 8),
+(10, "rugs", 2, 60),
+(11, "curtains", 20, 20),
+(12, "vases", 5, 10),
+(13, "planters", 6, 18),
+(14, "throws", 8, 12),
+(15, "candles", 10, 6)
+;
